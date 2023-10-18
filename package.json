@@ -14,12 +14,12 @@
     "lint-prettier": "yarn lint:check && yarn prettier:check",
     "postinstall": "prisma generate"
   },
-  "author": "mithulix",
+  "author": "mohaiminul islam @mithulix",
   "license": "ISC",
   "lint-staged": {
     "src/**/*.ts": "yarn lint-prettier"
   },
-  "dependencies": {
+   "dependencies": {
     "@prisma/client": "^5.4.2",
     "@types/bcrypt": "^5.0.0",
     "@types/cookie-parser": "^1.4.4",
@@ -50,4 +50,5 @@
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.2.2"
   }
+
 }

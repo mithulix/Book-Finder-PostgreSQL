@@ -6,7 +6,7 @@ import config from './config';
 async function mongoConnect() {
 
   const server: Server = app.listen(config.port, () => {
-    console.log(`Server running on port ${config.port}`);
+    console.log(`😂 Server running on port ${config.port}..`);
   });
 
   const exitHandler = () => {

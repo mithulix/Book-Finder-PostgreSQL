@@ -19,8 +19,8 @@ app.use('/api/v1', routes);
 app.get('/', (req, res) => {
   const bookFinderPostgreSql = `
   <div style="text-align: center; font-family: Poppins, sans-serif;">
-      <p style="font-size: 10rem;"> 💻🖥📡🛢</p>
-      <p style="font-size: 35px;"> Welcome to Product Wizardry Webpage. </p>
+      <p style="font-size: 10rem;"> 📖🛢📖</p>
+      <p style="font-size: 35px;"> Welcome to Book Finder PostgreSql Backend. </p>
   </div>
 `;
   res.send(bookFinderPostgreSql);

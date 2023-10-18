@@ -1,6 +1,6 @@
 ## Book Finder  Backend with PostgreSQL & Prisma
 
-### Live Link: https://book-catalog-servers.vercel.app
+### Live Link: 
 
 ### Application Routes:
 
