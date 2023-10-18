@@ -1,5 +1,5 @@
-## Book Finder  Backend with PostgreSQL & Prisma
 
+<<<<<<< HEAD
 ### Live Link: 
 
 ### Application Routes:
@@ -57,3 +57,5 @@ Signup Request body:
 #### Profile
 
 - api/v1/profile (Get)
+=======
+>>>>>>> 2950d4aa643a6117d8b3210cd51815619e67d53a
